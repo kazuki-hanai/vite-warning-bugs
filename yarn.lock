@@ -3042,7 +3042,7 @@ vite-plugin-react@^3.0.2:
     "@babel/core" "^7.9.6"
     react-refresh "^0.8.2"
 
-vite@^1.0.0-rc.1:
+vite@^1.0.0-rc.3:
   version "1.0.0-rc.4"
   resolved "https://registry.yarnpkg.com/vite/-/vite-1.0.0-rc.4.tgz#210106136861b231704e6381ac9eb1bcd655d4f0"
   integrity sha512-D9gpKKaE2U0YpIxNrSn+nlFPBT0sfg68Y1EReYW8YHMhbNFcxwS7RZIa1W/8Pq6yDfVRAhbOZNijv1mLG5pCEg==

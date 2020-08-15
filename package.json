@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "tsc --noEmit && vite build"
   },
   "dependencies": {
     "@pika/react": "^16.13.1",
@@ -22,7 +22,7 @@
     "eslint": "^7.6.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-react": "^7.20.6",
-    "vite": "^1.0.0-rc.1",
+    "vite": "^1.0.0-rc.3",
     "vite-plugin-react": "^3.0.2"
   }
 }
